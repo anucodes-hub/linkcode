@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Best Learning App</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.4/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-DQvkBjpPgn7RC31MCQoOeC9TI2kdqa4+BSgNMNj8v77fdC77Kj5zpWFTJaaAoMbC" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.4/dist/js/bootstrap.bundle.min.js" integrity="sha384-YUe2LzesAfftltw+PEaao2tjU/QATaW/rOitAq67e0CT0Zi2VVRL0oC4+gAaeBKu" crossorigin="anonymous"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.4/dist/js/bootstrap.min.js" integrity="sha384-Re460s1NeyAhufAM5JwfIGWosokaQ7CH15ti6W5Y4wC/m4eJ5opJ2ivohxVM05Wd" crossorigin="anonymous"></script>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.4/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-DQvkBjpPgn7RC31MCQoOeC9TI2kdqa4+BSgNMNj8v77fdC77Kj5zpWFTJaaAoMbC" crossorigin="anonymous">
+<style>
+.t1{
+  margin-left: 400px;
+  align-items: center;
+}
+#CARDS{
+        .custom-btn {
+          background-color:black;
+          color: white;
+        }
+    }
+
+/* .main{
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font: small-caps bold 24px/1 sans-serif;
+} */
+</style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+         
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="t1">
+                <img src="https://www.linkcode.in/assets/img/logo/linklogo.png" alt="">
+              </li>
+            </ul>
+
+            <form class="d-flex" role="search" style="margin: 20px;">
+                <button class="btn btn-outline-success" type="submit" style="margin:10px ;">Login</button>
+              <button class="btn btn-outline-success" type="submit" style="margin:10px;background-color: black;color: white;">Join For Free</button>
+            </form>
+          </nav>
+          <br>
+
+          <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.4/dist/js/bootstrap.bundle.min.js" integrity="sha384-YUe2LzesAfftltw+PEaao2tjU/QATaW/rOitAq67e0CT0Zi2VVRL0oC4+gAaeBKu" crossorigin="anonymous"></script>
+
+      <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <!-- First Image -->
+            <div class="carousel-item active">
+                <img src="https://www.gettingsmart.com/wp-content/uploads/2017/01/College-Students-Using-Laptops-Feature-Image.jpg" class="d-block w-100" alt="MacBook Air"width=50%>
+            </div>
+            <!-- Second Image -->
+            <div class="carousel-item">
+                <img src="https://i0.wp.com/theinnerdetail.com/wp-content/uploads/2023/01/topbrand2.png?fit=1024%2C768&ssl=1" class="d-block w-100" alt="AI Image Generator">
+            </div>
+            <!-- Third Image -->
+            <div class="carousel-item">
+                <img src="https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/1bbf3e6555b2.jpg" class="d-block w-100" alt="Studio Display">
+            
+            </div>
+            <!-- Fourth Image -->
+            <div class="carousel-item">
+                <img src="https://images.inc.com/uploaded_files/image/1920x1080/getty_485008244_105123.jpg" class="d-block" alt="Studio Display">
+            
+            </div>
+        </div>
+        <!-- Previous Button -->
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+  </button>
+  <!-- Next Button -->
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+  </button>
+  <br>
+          <!-- </div>
+        </div>
+       
+        <div class="main">
+          <h1>Crack your goal with India’s top educators</h1>
+        </div> -->
+
+        <div style="display:flex;justify-content:space-between;margin-right: 100px; margin-left: 100px;">
+        <div class="css-186ig5c-HeaderWrapper en4wv4v8">
+          <h1 class="h1_variant aquilla-typography typography  css-1uhb9xi">Crack your goal of cracking jobs</h1>
+          <div class="css-1egzfew-SubHeaderContainer en4wv4v11">
+            <h5 class="h5_variant aquilla-typography typography  css-1uhb9xi">
+              Over
+              <span class="h5_variant aquilla-typography typography  css-11p1nf4">1 lakh+</span>
+               learners trust us for their preparation</h5>
+            </div>
+          </div>
+<br>
+          <button class="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight" style="align-items: center;">Learn More Information</button>
+
+<div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasRightLabel">
+  <div class="offcanvas-header">
+    <h5 class="offcanvas-title" id="offcanvasRightLabel">What We Offer?</h5>
+    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+  </div>
+  <div class="offcanvas-body">
+    <ul>
+      <li>Home</li>
+      <li>About us</li>
+      <li>Training & Internship</li>
+      <li>Offered Programs</li>
+      <li>Our Placements</li>
+      <li>Syllabus</li>
+      <li>Our Goals</li>
+      <li></li>
+    </ul>
+  </div>
+</div>
+</div>
+<br>
+<hr>
+<div id="CARDS">
+  <h1 style="display:flex;align-items:center;color:black;margin-left: 100px;">Most Trending & Exclusive Courses</h1>
+  <hr>
+  <div class="container"style="display:flex;justify-content:evenly;">
+      <div class="container"style="display:flex;justify-content:space-around;">
+  <div id="carouselExample" class="carousel slide">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+           <div style="display:flex"> 
+          
+           <!-- 1 -->
+           
+          <div class="card" style="width: 18rem;display:flex;justify-content:space-between;">
+              <img src="https://play-lh.googleusercontent.com/9zvNJHedNg_6lOdwcodODMVsyeHKxuTIpnbBzomRGGZAp_vKVXnd5SlF8XZcXyGYjQ" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">DSA</h5>
+                <p class="card-text">₹3000</p>    
+                <a href="#" class="btn custom-btn">Details</a>
+                <a href="#" class="btn custom-btn">ENROLL</a>
+              </div>
+            </div>
+            
+          <!-- 2 -->
+  <div class="card" style="width: 18rem;">
+      <img src="https://img.freepik.com/premium-vector/backend-development-icon-vector-image-can-be-used-computer-programming_120816-303759.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Backend Developement</h5>
+        <p class="card-text">₹3000</p>
+        
+        <a href="#" class="btn custom-btn">Details</a>
+        <a href="#" class="btn custom-btn">ENROLL</a>
+      </div>
+  </div>
+        <!-- 3 -->
+        <div class="card" style="width: 18rem;">
+          <img src="https://static.vecteezy.com/system/resources/previews/007/571/212/non_2x/frontend-development-line-icon-vector.jpg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Frontend Developement</h5>
+            <p class="card-text">₹3000</p>
+            <a href="#" class="btn custom-btn">Frontend developement</a>
+            <a href="#" class="btn custom-btn">ENROLL</a>
+          </div>
+        </div>
+        </div>
+        </div>
+        
+        <div class="carousel-item">
+          <div style="display:flex"> 
+          <!-- 4 -->
+          <div class="card" style="width: 18rem;">
+              <img height="300px"src="data:image/jpeg;base64,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" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Fullstack development</h5>
+                <p class="card-text">₹3000</p>
+                <a href="#" class="btn custom-btn">Details</a>
+                <a href="#" class="btn custom-btn">ENROLL</a>
+              </div>
+          </div>
+          <!-- 5 -->
+          <div class="card" style="width: 18rem;">
+              <img height="300px"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF-KHSqTu4Yf42u0FPBQvR2pRO80CC_jQuvA&s" class="card-img-top" alt="...">
+              <div class="card-body">
+                  <h5 class="card-title">Machine Learning</h5>
+                  <p class="card-text">₹3000</p>
+                  <a href="#" class="btn custom-btn">Details</a>
+                  <a href="#" class="btn custom-btn">ENROLL</a>
+                </div>
+            </div>
+            <!-- 6 -->
+            <div class="card" style="width: 18rem;">
+                <img height="300px"src="https://cdn3.saiwa.ai/Blog/deep_learning_as_service_1_ee03131f_29b9_469f_8643_d732a5c7162e_563a6bf124.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Deep learning</h5>
+                  <p class="card-text">₹3000</p>
+                  <a href="#" class="btn custom-btn">Details</a>
+                  <a href="#" class="btn custom-btn">ENROLL</a>
+                </div>
+              </div>
+                
+          </div>
+          </div>
+          
+          <div class="carousel-item">
+            <div style="display:flex"> 
+            <!-- 7 -->
+            <div class="card" style="width: 18rem;">
+                <img height="350px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Python</h5>
+                  <p class="card-text">₹3000</p>
+                  <a href="#" class="btn custom-btn">Details</a>
+                  <a href="#" class="btn custom-btn">ENROLL</a>
+                </div>
+              </div>
+              <!-- 8 -->
+              <div class="card" style="width: 18rem;">
+                <img height="350px" src="https://dac.digital/wp-content/uploads/2023/12/when_did_java_become_popular-optimized.jpeg" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">JAVA</h5>
+                  <p class="card-text">₹3000</p>
+                  <a href="#" class="btn custom-btn">Details</a>
+                  <a href="#" class="btn custom-btn">ENROLL</a>
+                </div>
+                </div>
+                <!-- 9 -->
+            <div class="card" style="width: 18rem;">
+                <img height="350px"src="https://assets.codeguru.com/uploads/2003/02/C-tutorials.jpg " class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">C++</h5>
+                  <p class="card-text">₹300</p>
+                  <a href="#" class="btn custom-btn">Details</a>
+                  <a href="#" class="btn custom-btn">ENROLL</a>
+                </div>
+            </div>
+              </div>
+              
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+      </div>
+      </div>
+      <br>
+      <div >
+      <div style="justify-content:space-around;background-color:white;border-radius:0%;border-radius:0%;border:3px solid white;padding:0%;margin:100px;width:10%;color:black";height=1%>
+        <h1>START CODING WITH US</h1>
+        <div padding-left:15px;>
+             <p>Enter Mobile number:</p>
+            <input type="number" value="+91"name=+91>
+            <p>We’ll send an OTP for verification</p>
+        </div>
+        <br>
+        
+        <button>ENROLL</button>
+        <br>
+        <img src="https://sdmntprwestus.oaiusercontent.com/files/00000000-4024-5230-a3c3-b1faafdfe2d0/raw?se=2025-04-05T09%3A41%3A00Z&sp=r&sv=2024-08-04&sr=b&scid=3b6f6e87-9bee-5394-89ec-22a4ac1030aa&skoid=51916beb-8d6a-49b8-8b29-ca48ed86557e&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-04T20%3A19%3A15Z&ske=2025-04-05T20%3A19%3A15Z&sks=b&skv=2024-08-04&sig=ayx%2BvPLoO7qqPvHr9blcNqPBw5HJH%2BRdweurrkgxYQM%3D" alt="">
+      </div>
+
+    </div>
+    </body>
+</html>
+
